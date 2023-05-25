@@ -1,0 +1,2 @@
+# vite
+sample vite project
